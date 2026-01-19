@@ -1,12 +1,12 @@
 {
-  "name": "br33f/php-ga4-mp",
+  "name": "ldani3l/php-ga4-mp",
   "description": "PHP GoogleAnalytics4 Measurement Protocol Library",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
-      "name": "Damian Zamojski",
-      "email": "damian.zamojski1@gmail.com"
+      "name": "Daniel Alvarez",
+      "email": "ingenierodaniel7@gmail.com"
     }
   ],
   "require": {
