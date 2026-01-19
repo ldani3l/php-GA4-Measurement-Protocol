@@ -3,6 +3,7 @@
   "description": "PHP GoogleAnalytics4 Measurement Protocol Library",
   "minimum-stability": "stable",
   "license": "MIT",
+  "type": "project",
   "authors": [
     {
       "name": "Daniel Alvarez",
